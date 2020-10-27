@@ -2,7 +2,7 @@
 
 This capstone project was executed for the 'Python for AI & Data Science' training program.
 
-##Project Scope
+## Project Scope
 
 As the capstone project for Batch-1, an individual was assigned a product category. I was assigned ‘Coca Cola’. The scope included the following:
 1. Capture 50-100 images of the assigned product placed on supermarket shelves.
@@ -10,7 +10,7 @@ As the capstone project for Batch-1, an individual was assigned a product catego
 3. Use Google Collab to train Detectron 2 model.
 4. Predict on images & extract image parameters such as digital coordinatres, logical coordinates, image label & confidence level.
 
-##Prospective Applications
+## Prospective Applications
 
 The main implementation of the project is to recognize the products on supermarket shelves. Various cameras can be placed that give real-time imagery to the model. The model can therefore, be able to count the objects placed on a particular shelf. This application will be very useful in:
 1. Real-time Inventory Assessment
